@@ -1,4 +1,4 @@
-# website-scaper-moodlecourse
+# website-scraper-moodlecourse
 Plugin that allow to scrape moodle course page into zip for offline viewing 
 
 [![Version](https://img.shields.io/npm/v/website-scraper-puppeteer.svg?style=flat)](https://www.npmjs.org/package/website-scraper-puppeteer)
