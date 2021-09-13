@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.5",
+    "fs": "^0.0.1-security",
+    "querystring": "^0.2.1",
+    "website-scraper-highskills": "file:website-scraper-highskills"
+  }
+}
